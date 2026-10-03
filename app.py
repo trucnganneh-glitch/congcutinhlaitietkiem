@@ -14,7 +14,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 TÍNH LÃI GỬI TIẾT KIỆM")
+st.title("💰 CÔNG CỤ TÍNH LÃI GỬI TIẾT KIỆM _ Nguyễn Trương Trúc Ngân")
 st.caption("Công cụ tính toán tiền lãi tiền gửi ngân hàng")
 
 st.divider()
