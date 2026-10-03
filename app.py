@@ -2,6 +2,7 @@
 import streamlit as st
 import pandas as pd
 
+st.image("logo.png", caption="Tiết kiệm thông minh", width=300)
 # =========================
 # CẤU HÌNH TRANG
 # =========================
