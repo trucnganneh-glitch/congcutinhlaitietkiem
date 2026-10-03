@@ -2,7 +2,6 @@
 import streamlit as st
 import pandas as pd
 
-st.image("logo.pjg", caption="Tiết kiệm thông minh", width=300)
 # =========================
 # CẤU HÌNH TRANG
 # =========================
@@ -11,7 +10,7 @@ st.set_page_config(
     page_icon="💰",
     layout="centered"
 )
-
+st.image("logo.jpg")
 # =========================
 # TIÊU ĐỀ
 # =========================
