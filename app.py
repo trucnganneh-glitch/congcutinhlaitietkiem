@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 
-st.image("logo.png", caption="Tiết kiệm thông minh", width=300)
+st.image("logo.pjg", caption="Tiết kiệm thông minh", width=300)
 # =========================
 # CẤU HÌNH TRANG
 # =========================
